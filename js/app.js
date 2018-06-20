@@ -245,7 +245,7 @@ function gameWon(dif, movesMade, time, starsCount, inRow, mistakes) {
 function gameMenu(dif) {
 	timerOn = false;
 
-	let text = `<h1>Game Paused!</h1><hr><p>
+	let text = `<h1>Game Paused! MIKKKKKEE</h1><hr><p>
 	<button class="resume ripple">Resume Game</button>
 	<button class="new ripple">New Game</button>
 	<button class="restart ripple">Restart Game</button>
